@@ -52,3 +52,8 @@ it-tagger-data/it.tagged.txt -text
 /testvoc-en-it -text
 /translate-to-default-equivalent.xsl -text
 /verblist.txt -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
